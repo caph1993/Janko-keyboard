@@ -1,5 +1,10 @@
-# Janko-keyboard
+# Janko-keyboard*
 
+Online demo: https://caph1993.github.io/Janko-keyboard/
+
+* This repository is a modified fork of the following repository: https://github.com/Dafirm/Janko-keyboard
+
+# Janko-keyboard
 
 *A virtual Janko Keyboard project written in HTML, CSS and JAVASCRIPT
 by Femi Oyeniyi* ACTAM Project 2021 
